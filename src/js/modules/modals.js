@@ -36,7 +36,7 @@ const modals = () => {
       document.querySelector(selector).style.display = "block";
     }, time);
   }
-  timeOutModal(".popup", 3000);
+  //   timeOutModal(".popup", 3000);
   bindModal(
     ".popup_engineer_btn",
     ".popup_engineer",
